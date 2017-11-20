@@ -167,14 +167,14 @@
         <location filename="../desktop-widgets/btdeviceselectiondialog.cpp" line="365"/>
         <location filename="../desktop-widgets/btdeviceselectiondialog.cpp" line="385"/>
         <source>UNPAIRED</source>
-        <translation>UNPAIRED</translation>
+        <translation>DÉSAPPAIRÉ</translation>
     </message>
     <message>
         <location filename="../desktop-widgets/btdeviceselectiondialog.cpp" line="235"/>
         <location filename="../desktop-widgets/btdeviceselectiondialog.cpp" line="370"/>
         <location filename="../desktop-widgets/btdeviceselectiondialog.cpp" line="383"/>
         <source>PAIRED</source>
-        <translation>PAIRED</translation>
+        <translation>APPAIRÉ</translation>
     </message>
     <message>
         <location filename="../desktop-widgets/btdeviceselectiondialog.cpp" line="238"/>
